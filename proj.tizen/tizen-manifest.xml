@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="2.3" package="com.baidu.www" version="1.0.0">
+    <ui-application appid="com.baidu.www" exec="hellocpp" multiple="false" nodisplay="false" taskmanage="true" type="capp">
+        <label>MIGONG</label>
+        <icon>MIGONG.png</icon>
+    </ui-application>
+</manifest>
