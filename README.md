@@ -5,3 +5,7 @@
 
 点击游戏开始后，进入游戏选择界面，在规定时间内使老鼠吃到宝石，即可胜利
 
+![游戏界面](https://github.com/WenHaiLu/mini-maze/blob/master/game1.png)
+
+游戏胜利或游戏失败后进入重载界面，开始重来或者退出游戏
+
